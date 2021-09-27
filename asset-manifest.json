@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/On-Voice-Record----React-Project/static/css/main.a5c9e2fa.chunk.css",
+    "main.js": "/On-Voice-Record----React-Project/static/js/main.5ebea96b.chunk.js",
+    "main.js.map": "/On-Voice-Record----React-Project/static/js/main.5ebea96b.chunk.js.map",
+    "runtime-main.js": "/On-Voice-Record----React-Project/static/js/runtime-main.9ad25451.js",
+    "runtime-main.js.map": "/On-Voice-Record----React-Project/static/js/runtime-main.9ad25451.js.map",
+    "static/js/2.6bf9086f.chunk.js": "/On-Voice-Record----React-Project/static/js/2.6bf9086f.chunk.js",
+    "static/js/2.6bf9086f.chunk.js.map": "/On-Voice-Record----React-Project/static/js/2.6bf9086f.chunk.js.map",
+    "static/js/3.dda2f1c4.chunk.js": "/On-Voice-Record----React-Project/static/js/3.dda2f1c4.chunk.js",
+    "static/js/3.dda2f1c4.chunk.js.map": "/On-Voice-Record----React-Project/static/js/3.dda2f1c4.chunk.js.map",
+    "index.html": "/On-Voice-Record----React-Project/index.html",
+    "static/css/main.a5c9e2fa.chunk.css.map": "/On-Voice-Record----React-Project/static/css/main.a5c9e2fa.chunk.css.map",
+    "static/js/2.6bf9086f.chunk.js.LICENSE.txt": "/On-Voice-Record----React-Project/static/js/2.6bf9086f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ad25451.js",
+    "static/js/2.6bf9086f.chunk.js",
+    "static/css/main.a5c9e2fa.chunk.css",
+    "static/js/main.5ebea96b.chunk.js"
+  ]
+}
